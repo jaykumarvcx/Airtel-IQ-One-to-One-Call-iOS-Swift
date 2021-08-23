@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '10.0'
+
+target 'AirtelIQ' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for sampleiOS
+        pod 'EnxRTCiOS'
+        pod 'Socket.IO-Client-Swift', '~> 15.0.0'
+        pod 'SVProgressHUD'
+        pod 'ReachabilitySwift'
+        pod 'Crashlytics'
+
+  target 'AirtelIQTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'AirtelIQUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
