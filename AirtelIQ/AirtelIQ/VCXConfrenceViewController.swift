@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import EnxRTCiOS
+import VideoIQiOS
 import SVProgressHUD
 class VCXConfrenceViewController: UIViewController {
 

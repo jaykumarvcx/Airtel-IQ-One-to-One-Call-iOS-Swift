@@ -2,8 +2,8 @@
 //  EnxContants.h
 //  EnxiOS_SampleApp
 //
-//  Created by Enablex on 06/07/18.
-//  Copyright © 2018 Vcloudx. All rights reserved.
+//  Created by VideoIQ on 06/07/18.
+//  Copyright © 2018 Airtel India. All rights reserved.
 //
 
 #ifndef EnxContants_h

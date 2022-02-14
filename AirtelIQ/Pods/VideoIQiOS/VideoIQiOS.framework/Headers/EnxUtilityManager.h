@@ -2,8 +2,8 @@
 //  EnxAudioManager.h
 //  VCXiOS_SampleApp
 //
-//  Created by Enablex on 19/02/19.
-//  Copyright © 2019 Enablex. All rights reserved.
+//  Created by VideoIQ on 19/02/19.
+//  Copyright © 2019 Airtel India. All rights reserved.
 //
 @import WebRTC;
 #import <Foundation/Foundation.h>

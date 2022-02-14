@@ -24,16 +24,6 @@
 		</dict>
 		<dict>
 			<key>FooterText</key>
-			<string>https://www.enablex.io/legals/tou/</string>
-			<key>License</key>
-			<string>Vcloudx License, Version 1.1</string>
-			<key>Title</key>
-			<string>EnxRTCiOS</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
 			<string>Fabric: Copyright 2018 Google, Inc. All Rights Reserved. Use of this software is subject to the terms and conditions of the Fabric Software and Services Agreement located at https://fabric.io/terms. OSS: http://get.fabric.io/terms/opensource.txt</string>
 			<key>License</key>
 			<string>Commercial</string>
@@ -2205,6 +2195,16 @@ Apache License
 			<string>Apache License, Version 2.0</string>
 			<key>Title</key>
 			<string>Starscream</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>https://www.airtel.in/mobile/terms-conditions</string>
+			<key>License</key>
+			<string>airtelIQ License, Version 1.0</string>
+			<key>Title</key>
+			<string>VideoIQiOS</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>

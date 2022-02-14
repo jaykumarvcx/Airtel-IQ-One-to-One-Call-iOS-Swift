@@ -979,6 +979,13 @@ Event fired when a StreamId previously subscribed has been failed to unsubscribe
  @details this is the socket on listrener method for all use in parents room will get notify about user disconnected from breakout room resently.
  */
 - (void)signalingChannel:(EnxSignalingChannel *_Nullable)channel didUserDisconnectedFromBreakoutRoom:(NSArray *_Nonnull)data;
+/**
+ Event fired for resume room Acknowledgment
+ @param channel EnxSignalingChannel the channel that emit the message.
+ @param data details resume room
+ @details this is the socket emit acknowledgment method for resume room
+ */
+- (void)signalingChannel:(EnxSignalingChannel *_Nullable)channel didAckRejectBreakoutRoom:(NSArray *_Nonnull)data;
 
 #pragma mark- knock-knock room or wait for modeator
 /**
@@ -1467,6 +1474,13 @@ signalingChannelDelegate:(id<EnxSignalingChannelDelegate>_Nullable)delegate;
  */
 -(void)resumeRoom:(NSDictionary * _Nonnull)data;
 
+
+/**
+    Socket API to reject breakout room
+    @param data information about  breakoutroom
+    @details EnxRoom will used this method to reject breakoutroom
+ */
+-(void)requestForRejectBreakOutRoom:(NSString * _Nonnull)data;
 
 #pragma mark- Knock - Knock Room
 
