@@ -1,0 +1,6 @@
+framework module VideoIQiOS {
+  umbrella header "VideoIQiOS.h"
+
+  export *
+  module * { export * }
+}

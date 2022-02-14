@@ -1,9 +1,9 @@
 //
 //  EnxLogParser.h
-//  EnxRTCiOS
+//  VideoIQ
 //
-//  Created by Enablex on 09/01/19.
-//  Copyright © 2019 Vcloudx. All rights reserved.
+//  Created by VideoIQ on 09/01/19.
+//  Copyright © 2019 Airtel India. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

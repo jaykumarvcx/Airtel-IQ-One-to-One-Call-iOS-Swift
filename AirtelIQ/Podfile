@@ -6,7 +6,7 @@ target 'AirtelIQ' do
   use_frameworks!
 
   # Pods for sampleiOS
-        pod 'EnxRTCiOS'
+        pod 'VideoIQiOS'
         pod 'Socket.IO-Client-Swift', '~> 15.0.0'
         pod 'SVProgressHUD'
         pod 'ReachabilitySwift'

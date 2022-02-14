@@ -9,7 +9,7 @@
 import UIKit
 import Fabric
 import Crashlytics
-import EnxRTCiOS
+import VideoIQiOS
 
 @UIApplicationMain
 class VCXAppDelegate: UIResponder, UIApplicationDelegate {

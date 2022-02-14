@@ -50,7 +50,7 @@ Objective-C: In Compliance with iOS 10.0+
      
  /* Your Web Service Host URL.  The following host is applicable when kTry = true */
  
-     String kBaseURL = "https://api.videoiq.airtel.in/"
+     String kBaseURL = "https://demo.videoiq.airtel.in/"
      
  /* Your Application Credentials are required to try with Airtel IQ Hosted Service. You can remove these when you setup your own Application Service */
      
